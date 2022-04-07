@@ -113,3 +113,80 @@ body header #right-head #p2 {
   color: #A9A9A9;
   text-decoration: none;
 }
+
+/* <------------------ Responsive -----------------> */
+
+/* Mobile */
+
+@media only screen and (min-width: 280px) and (max-width: 374px){
+  body {
+    margin: 0;
+    padding: 0;
+  }
+  body header {
+    flex-direction: column;
+    padding-left: 20px;
+    padding-top: 20px;
+  }
+  #right-head {
+    margin-top:30px;
+  }
+
+  #team-grid {
+    margin-top: 17px;
+    justify-content: space-around;
+  }
+  .team-member {
+    padding-left: 22px;
+  }
+  .team-member img {
+    height: 160px;
+  }
+  #tm-5{
+    margin-top: 0;
+  }
+  #tm-2, #tm-4, #tm-6 {
+    margin-top: 40px;
+  }
+  .team-role {
+    padding-left: 3px;
+  }
+}
+
+@media only screen and (min-width: 375px){
+  body {
+    margin: 0;
+    padding: 0;
+  }
+  body header {
+    flex-direction: column;
+    padding-left: 20px;
+    padding-top: 20px;
+  }
+  #right-head {
+    margin-top:30px;
+  }
+
+  #team-grid {
+    margin-top: 17px;
+    justify-content: space-around;
+  }
+  .team-member {
+    padding-left: 12px;
+    padding-right: 12px;  
+  }
+  .team-member img {
+    height: 10em;
+    width: auto;
+  }
+  #tm-5{
+    margin-top: 0;
+  }
+  #tm-2, #tm-4, #tm-6 {
+    margin-top: 40px;
+  }
+  .team-role {
+    padding-left: 3px;
+  }
+}
+
