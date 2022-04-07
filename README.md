@@ -65,6 +65,6 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- Website [your-website.com](https://{your-web-site-link})
+<!-- - Website [your-website.com](https://{your-web-site-link}) -->
 - GitHub [@TheTobiGit]
-- Twitter [@your-twitter](https://{twitter.com/your-username})
+<!-- - Twitter [@your-twitter](https://{twitter.com/your-username}) -->
