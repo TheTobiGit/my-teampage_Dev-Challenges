@@ -38,7 +38,7 @@
 
 ![screenshot](https://github.com/TheTobiGit/my-teampage_Dev-Challenges/blob/main/Web%20capture_7-4-2022_195915_127.0.0.1.jpeg)
 
-Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
+<!-- Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering: -->
 
 
 ### Built With
