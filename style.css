@@ -255,3 +255,53 @@ body header #right-head #p2 {
     padding-left: 3px;
   }
 }
+
+/* Laptop */
+
+@media only screen and (min-width: 1024px) and (max-width: 1339px) {
+  body {
+    margin-left: 90px;
+    margin-right: 90px;
+    padding: 0;
+  }
+  body header {
+    padding-left: 40px;
+    padding-top: 20px;
+  }
+
+  #team-grid {
+    margin-top: 49px;
+    justify-content: space-between;
+  }
+  .team-member {
+    padding-left: 12px;
+    padding-right: 12px;  
+  }
+  .team-role {
+    padding-left: 3px;
+  }
+}
+
+@media only screen and (min-width: 2560px) {
+  body {
+    margin-top: 100px;
+  }
+  body header #right-head {
+    width: 800px;
+  }
+  body header #left-head p {
+    font-size: 70px;
+  }
+  body header #right-head #p1 {
+    font-size: 40px;
+  }
+  body header #right-head #p2 {
+    font-size: 35px;
+    padding-top: 50px;
+    line-height: 50px;
+  }
+
+  .team-member img {
+    height: 50em;
+  }
+}
