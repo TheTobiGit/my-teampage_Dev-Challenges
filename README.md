@@ -8,11 +8,11 @@
 
 <div align="center">
   <h3>
-<!--     <a href="https://{your-demo-link.your-domain}">
+    <a href="https://thetobigit-myteampage.netlify.app/">
       Demo
     </a>
-    <span> | </span> -->
-    <a href="https://thetobigit-myteampage.netlify.app/">
+    <span> | </span>
+    <a href="https://devchallenges.io/solutions/pGDQTRft65Idpv8Nu1Vg">
       Solution
     </a>
     <span> | </span>
@@ -67,4 +67,4 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 <!-- - Website [your-website.com](https://{your-web-site-link}) -->
 - GitHub [@TheTobiGit](https://github.com/TheTobiGit)
-- Twitter [@TheTobiGit](https://{twitter.com/TheTobiGit})
+- Twitter [@TheTobiGit](https://twitter.com/TheTobiGit)
