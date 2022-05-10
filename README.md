@@ -12,7 +12,7 @@
       Demo
     </a>
     <span> | </span> -->
-    <a href="https://thetobi-myteampage.netlify.app/">
+    <a href="https://thetobigit-myteampage.netlify.app/">
       Solution
     </a>
     <span> | </span>
@@ -67,4 +67,4 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 <!-- - Website [your-website.com](https://{your-web-site-link}) -->
 - GitHub [@TheTobiGit](https://github.com/TheTobiGit)
-<!-- - Twitter [@your-twitter](https://{twitter.com/your-username}) -->
+- Twitter [@TheTobiGit](https://{twitter.com/TheTobiGit})
